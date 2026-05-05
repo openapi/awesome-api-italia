@@ -17,7 +17,7 @@
 - 🔑 Richiede registrazione / API key
 - 📄 Documentazione ufficiale disponibile
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Contenuti
 
@@ -57,7 +57,7 @@
 - [Strumenti e Librerie per Sviluppatori](#strumenti-e-librerie-per-sviluppatori)
 - [Liste Correlate](#liste-correlate)
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Enti Normativi e Standard di Riferimento
 
@@ -68,7 +68,7 @@
 - 🏛️ [ISTAT](https://www.istat.it/it/metodi-e-strumenti/tecnologie-e-standard/sdmx) — Standard SDMX per dati statistici italiani. Base per tutti i dataset ISTAT accessibili via API.
 - 🏛️ [DigitPA / ANPR](https://www.anpr.interno.it/) — Standard tecnici per l'Anagrafe Nazionale Popolazione Residente.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Pubblica Amministrazione
 
@@ -110,7 +110,7 @@
 - 🏛️ [Portale dei Servizi Telematici — Ministero della Giustizia](https://pst.giustizia.it/PST/) — Accesso telematico agli atti giudiziari. API per operatori abilitati (avvocati, tribunali).
 - 🏛️ [ReGIndE](https://pst.giustizia.it/PST/it/pst_2_15.wp) — Registro Generale degli Indirizzi Elettronici. Lookup PEC di avvocati, notai, consulenti tecnici.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Imprese e Persone Giuridiche
 
@@ -136,7 +136,7 @@
 - 💰 🔑 [Experian Italy](https://www.experian.it/business/products/business-information/) — Credit bureau italiano. API per scoring e informazioni commerciali.
 - 💰 🔑 [Modefinance](https://www.modefinance.com/it/api) — FinTech italiana specializzata in rating PMI. API per accesso a rating MORE e analisi di bilancio.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Territorio e Geospaziale
 
@@ -167,7 +167,7 @@
 - 🔑 [TomTom API — Italy](https://developer.tomtom.com/) 💰 — Routing e traffico con dataset italiani. Forte in automotive.
 - [Nominatim (OSM)](https://nominatim.org/release-docs/develop/api/Overview/) — Geocoding/reverse geocoding gratuito basato su OpenStreetMap. Ottima copertura italiana.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Automotive e Veicoli
 
@@ -177,7 +177,7 @@
 - 💰 🔑 [Targhe e Veicoli API](https://www.targheinfo.it/) — API commerciale italiana per lookup targa: dati tecnici veicolo, scadenza bollo, assicurazione.
 - [eurotax / DAT](https://www.dat.de/en/) 💰 — Valutazione veicoli usati italiani. Riferimento per automotive dealer e assicurazioni.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Finanza e Mercati
 
@@ -197,7 +197,7 @@
 - 💰 🔑 [Invoicecloud / Zucchetti](https://www.zucchetti.it/website/cms/products/1086-fatturazione-elettronica.html) — API enterprise per fatturazione elettronica, conservazione sostitutiva.
 - 💰 🔑 [TeamSystem API](https://developer.teamsystem.com/) — Suite API gestionali italiani: fatturazione, contabilità, HR. Ecosistema B2B per software house.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Comunicazione e Marketing Diretto
 
@@ -221,7 +221,7 @@
 - 💰 🔑 [ZeroBounce](https://www.zerobounce.net/docs/) — Verifica email internazionale con buona copertura domini .it.
 - 💰 🔑 [Hunter.io](https://hunter.io/api) — Ricerca e verifica email aziendali. Buona copertura imprese italiane.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Identità Digitale e Trust
 
@@ -239,7 +239,7 @@
 - 💰 🔑 [InfoCert Sign API](https://www.infocert.it/servizi-per-le-aziende/firma-digitale/) — Firma digitale remota e massiva. Tra i principali provider italiani accreditati eIDAS.
 - 💰 🔑 [Aruba Sign API](https://www.aruba.it/servizi/firma-digitale.aspx) — Firma digitale e firma remota. API REST per integrazione in workflow documentali.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Immobiliare
 
@@ -249,7 +249,7 @@
 - 🏛️ [OMI — Quotazioni Immobiliari](https://www.agenziaentrate.gov.it/portale/web/guest/schede/fabbricatiterreni/omi/banche-dati/quotazioni-immobiliari) — Valori di mercato ufficiali per zona OMI. Dataset Excel/CSV scaricabili con aggiornamento semestrale.
 - 💰 🔑 [Openapi.com — Real Estate](https://www.openapi.com/it/api/real-estate) — 30+ servizi: valutazione AVM, dati catastali, ipoteche, storico rogiti, abusivismo.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Turismo e Cultura
 
@@ -260,7 +260,7 @@
 - 🔑 [Tripadvisor Content API](https://developer-tripadvisor.com/content-api/) 💰 — Contenuti turistici italiani: hotel, ristoranti, attrazioni con recensioni.
 - [OpenStreetMap — Turismo IT](https://wiki.openstreetmap.org/wiki/IT:Turismo) — Tag e dataset OSM per turismo italiano. Gratuito, aggiornato dalla community.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Trasporti e Mobilità
 
@@ -272,7 +272,7 @@
 - 🔑 [HERE Traffic — Italy](https://developer.here.com/documentation/traffic-api/) 💰 — Dati traffico in tempo reale per strade italiane.
 - 🏛️ [AISCAT — Autostrade Open Data](https://www.aiscat.it/) — Dati su traffico autostradale italiano.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Meteo e Ambiente
 
@@ -283,7 +283,7 @@
 - 🔑 [Meteoblue — Italy](https://www.meteoblue.com/it/tempo/previsione/) 💰 — Previsioni meteo ad alta risoluzione per territorio italiano.
 - 🔑 [Il Meteo API](https://www.ilmeteo.it/) 💰 — Provider meteo italiano con API per previsioni localizzate in italiano.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Aggregatori e Marketplace API
 
@@ -294,7 +294,7 @@
 - 💰 🔑 [CRIF B2B API Hub](https://www.crif.com/business-information/) — Hub di servizi per onboarding, KYC e credit risk su soggetti italiani.
 - 💰 🔑 [Cerved API](https://api.cerved.com/) — Suite API per business information, rating, monitoraggio imprese italiane.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Dataset Internazionali con Dati Italiani
 
@@ -310,7 +310,7 @@
 - [GLEIF — LEI Lookup](https://www.gleif.org/en/lei-data/gleif-api) 🏛️ — API per Legal Entity Identifier. Lookup di aziende italiane con codice LEI assegnato.
 - [VIES — EU VAT](https://ec.europa.eu/taxation_customs/vies/) 🏛️ — Verifica partite IVA europee incluse quelle italiane (prefisso IT).
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Strumenti e Librerie per Sviluppatori
 
@@ -326,7 +326,7 @@
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) — Linter per validare questa lista prima di fare PR a sindresorhus/awesome.
 - [Developers Italia](https://developers.italia.it/it/api) — Catalogo ufficiale delle API della PA italiana mantenuto da AgID/PDND.
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Liste Correlate
 
@@ -335,7 +335,7 @@
 - [publicapis](https://github.com/public-apis/public-apis) — Lista globale di API pubbliche gratuite (non specifica per l'Italia)
 - [Developers Italia — Catalogo API](https://developers.italia.it/it/api) — Catalogo ufficiale PA digitale italiana
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Contribuire
 
@@ -347,7 +347,7 @@ Leggi [CONTRIBUTING.md](CONTRIBUTING.md) prima di aprire una PR.
 - Le API deprecate o non più manutenute vanno in `DEPRECATED.md`
 - Indicare sempre il marcatore 💰 per servizi a pagamento o freemium
 
-<p align="center">🟢 ⚪ 🔴</p>
+<p align="center">♢</p>
 
 ## Licenza
 
